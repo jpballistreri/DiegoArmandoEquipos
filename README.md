@@ -1,5 +1,6 @@
 # DiegoArmandoEquipos
 Armador de equipos random.
+
 [x] (Armar equipos random divididos con la cantidad total de jugadores ingresados)
 
 [ ] (Db con edades)
